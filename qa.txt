@@ -1,0 +1,10 @@
+1.without address submitd
+2.without select sate and city submited
+3.without email submited
+4.without subject submited 
+5.without hobbies submited
+6.without picture submited
+7.enter value in subject is automatically remove after select any next step
+8.using back sapce  site this blank
+9.sate and city when select state city is not change automatically
+10.worng suggetion in subject
